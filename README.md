@@ -1,2 +1,2 @@
-# thongdat-website
-Personal learning website – Mathematics, Physics, Computer Science and Knowledge.
+Thay các file SVG mẫu bằng ảnh của bạn hoặc sửa đường dẫn ảnh trong furina/index.html.
+Ví dụ: photo-01.jpg, photo-02.jpg...
